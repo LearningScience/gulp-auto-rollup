@@ -1,6 +1,6 @@
 {
 	"name": "gulp-auto-rollup",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"main": "lib/gulp-auto-rollup.js",
 	"directories": {
 		"bin": "bin",
