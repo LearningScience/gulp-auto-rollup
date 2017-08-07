@@ -1,0 +1,23 @@
+{
+	"name": "gulp-auto-rollup",
+	"version": "0.0.0",
+	"main": "lib/gulp-auto-rollup.js",
+	"directories": {
+		"bin": "bin",
+		"lib": "lib",
+		"man": "man"
+	},
+	"author": "Thomas Brierley",
+	"license": "MIT",
+	"description": "Automatic ES6 Module Bundler",
+	"keywords": [
+		"ES6",
+		"module",
+		"bundler"
+	],
+	"repository": "github:learningscience/gulp-auto-rollup",
+	"dependencies": {
+		"rollup": "^0",
+		"through2": "^2"
+	}
+}
