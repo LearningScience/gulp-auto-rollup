@@ -17,7 +17,7 @@
 	],
 	"repository": "github:learningscience/gulp-auto-rollup",
 	"dependencies": {
-		"rollup": "^0",
+		"rollup": "^2",
 		"through2": "^2"
 	}
 }
